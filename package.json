@@ -1,0 +1,14 @@
+{
+  "name": "blabs-coin",
+  "version": "1.0.0",
+  "description": "BlockchainLabs Coin (For testing)",
+  "main": "truffle.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "Matt Lough (BlockchainLabs NZ)",
+  "license": "ISC",
+  "dependencies": {
+    "zeppelin-solidity": "^1.7.0"
+  }
+}
