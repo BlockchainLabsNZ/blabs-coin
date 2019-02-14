@@ -1,8 +1,8 @@
 # BlockchainLabs Coin
 
 Deployed here:
-https://kovan.etherscan.io/token/0xa390DD0ff6128a5C3454Df097c57cdEa5576063a
-https://ropsten.etherscan.io/address/0x78f97f95f268336a214c7eba9da06283358ada44
+* https://kovan.etherscan.io/token/0xa390DD0ff6128a5C3454Df097c57cdEa5576063a
+* https://ropsten.etherscan.io/address/0x11465b1cd69161b4fe80697e10278228853fc33b
 
 You can call `coinFaucet` to receive 500000 tokens for testing.
 
